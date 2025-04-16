@@ -27,4 +27,9 @@ Here are some ideas to get you started:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Python练习-count、remove、append、extend](http://jucanayu.top/article/1ce7ab71-7095-80ca-aace-d57bd5f198ef)
+- [Python练习-类型转换](http://jucanayu.top/article/1ce7ab71-7095-807b-90d9-f91fd9fc201d)
+- [Python练习-range](http://jucanayu.top/article/1cd7ab71-7095-8074-b6d5-e5304a72c74d)
+- [Python练习-双指针法](http://jucanayu.top/article/1cd7ab71-7095-80dd-a7bd-e04fffa7a7df)
+- [Python练习-insert和del](http://jucanayu.top/article/1c77ab71-7095-80ae-9993-c2f90fd48bbf)
 <!-- BLOG-POST-LIST:END -->
