@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 - My nickname is JucanaYu.I am a master in ZUT.💬
 - I am majoy in Information Security and Large Language Model！🤔
 
+##Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JucanaYu)
 
-
+##GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JucanaYu)
 
 <picture>
