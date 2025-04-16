@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - Hi！Welcome to my Github!😄
 - My nickname is JucanaYu.I am a master in ZUT.💬
 - I am majoy in Information Security and Large Language Model！🤔
+- Luckily！I have a lovely and loving wife.👯
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JucanaYu)
