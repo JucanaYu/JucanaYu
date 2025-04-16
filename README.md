@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi！Welcome to my Github!
-My nickname is JucanaYu.I am a master in ZUT.
-I am majoy in Information Security and Large Language Model！
+- Hi！Welcome to my Github!😄
+- My nickname is JucanaYu.I am a master in ZUT.💬
+- I am majoy in Information Security and Large Language Model！🤔
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JucanaYu)
 
